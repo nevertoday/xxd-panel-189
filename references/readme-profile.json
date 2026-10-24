@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 189｜Double-frame Matchbox Label Vignette: lays a photo out like an old matchbox sleeve or packaging label — an outer frame for the whole label, an inner frame for the main panel and a narrow side column cut off to one side — and places a small spot illustration of the photo's most story-like subject relationship in the middle or slightly low in the main panel, drawn with colour blocks, outlines and a little texture. Paper colour is the largest area; grey-blue or navy carries structure, grey-green or pine green the main shapes, and only a tiny touch of amber or ochre, with slight ink unevenness and grain. Small letterpress-style words run along the side column, frames or whitespace. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-189 or asks for vintage label, matchbox, spot-colour print or framed vignette illustration from a photo.",
+  "short_description": "双框侧栏火柴盒小景：把照片画成旧火柴盒标签里的一幅小插图，双层边框加窄侧栏，限定专色",
+  "zh-CN": {
+    "name": "双框侧栏火柴盒小景",
+    "tagline": "把照片画成旧火柴盒标签里的一幅小插图，外有双层边框和一条窄侧栏。",
+    "look": "下方像一张旧火柴盒封套或包装标签：外框围出完整标签，内框划出主画面，一侧切出一条窄窄的侧栏。主画面中部或略偏下放一幅小插图，只画最有故事的主体关系，用色块、轮廓和少量纹理表达，像旧书封里的一个小场景。纸色占最大面积，灰蓝、藏蓝勾结构，灰绿、松针绿做主体，只在极小处用一点琥珀黄或赭黄，带轻微油墨不均和颗粒。文字是细小的活版铅字感字体，沿侧栏、边框或留白排布。",
+    "traits": ["双层边框", "侧栏分区", "小幅插图", "限定专色", "旧印刷感"],
+    "good": [
+      "有一点故事的小场景：灯塔、小船、林间小屋、骑车的人",
+      "自然和旅行照片：山、湖、林间小路、海边",
+      "想做包装标签、书封、明信片或火柴盒画片的照片"
+    ],
+    "poor": [
+      "人多、细节多的复杂场面，在小插图里会挤成一团",
+      "需要真实还原人脸或商品细节的照片",
+      "想要鲜艳数字渐变、满版插画或 3D 效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Double-frame Matchbox Label Vignette",
+    "tagline": "Draws a photo as a small illustration on an old matchbox label, with double frames and a narrow side column.",
+    "look": "The design reads like an old matchbox sleeve or packaging label: an outer frame encloses the whole label, an inner frame marks the main panel, and a narrow side column is cut off to one side. A small illustration sits in the middle of the main panel or slightly below, showing only the subject relationship with the most story in it, told with colour blocks, outlines and a little texture, like a small scene on an old book cover. Paper colour takes the most space; grey-blue or navy draws the structure, grey-green or pine green fills the main shapes, and only a tiny touch of amber or ochre appears, with slight ink unevenness and grain. Text is small, letterpress-style type running along the side column, the frames or the whitespace.",
+    "traits": ["Double frame", "Side column", "Small vignette", "Limited spot colour", "Vintage print"],
+    "good": [
+      "Small scenes with a bit of story: a lighthouse, a small boat, a cabin in the woods, someone cycling",
+      "Nature and travel photos: mountains, lakes, forest paths, the seaside",
+      "Photos you want as a packaging label, book cover, postcard or matchbox picture"
+    ],
+    "poor": [
+      "Busy scenes with many people and details, which get crammed together in a small illustration",
+      "Photos that need faithful faces or product details",
+      "Requests for bright digital gradients, full-bleed illustration or 3D"
+    ]
+  },
+  "ja": {
+    "name": "二重枠とサイドバーのマッチ箱小景",
+    "tagline": "写真を古いマッチ箱ラベルの中の小さな挿絵にし、二重の枠と細いサイドバーで囲みます。",
+    "look": "古いマッチ箱の外箱や包装ラベルのような画面です。外枠がラベル全体を囲み、内枠が主画面を区切り、片側に細いサイドバーが切り出されます。主画面の中央かやや下に小さな挿絵を置き、いちばん物語のある主役の関係だけを、色面、輪郭、わずかな質感で描きます。古い本の表紙の小さな一場面のようです。紙の色がいちばん広く、灰青や紺で構造を、灰緑や松葉色で主な形を描き、琥珀色や黄土色はごく小さく一点だけ使います。インクのむらや粒子が少し残ります。文字は小さな活版風の書体で、サイドバー、枠、余白に沿って配置します。",
+    "traits": ["二重枠", "サイドバー", "小さな挿絵", "限定の特色", "古い印刷感"],
+    "good": [
+      "少し物語のある小さな場面：灯台、小舟、森の小屋、自転車に乗る人",
+      "自然や旅の写真：山、湖、林の小道、海辺",
+      "包装ラベル、本の表紙、絵葉書、マッチ箱の絵にしたい写真"
+    ],
+    "poor": [
+      "人や細部が多い複雑な場面は、小さな挿絵の中で詰まってしまいます",
+      "顔や商品の細部を正確に再現したい写真",
+      "鮮やかなデジタルグラデーション、全面の挿絵、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "이중 프레임과 사이드바 성냥갑 소품",
+    "tagline": "사진을 옛 성냥갑 라벨 속 작은 삽화로 그리고 이중 테두리와 좁은 사이드바로 감쌉니다.",
+    "look": "옛 성냥갑 겉포장이나 포장 라벨 같은 화면입니다. 바깥 테두리가 라벨 전체를 감싸고, 안쪽 테두리가 주 화면을 나누며, 한쪽에 좁은 사이드바가 잘려 나옵니다. 주 화면 가운데나 조금 아래에 작은 삽화를 두고, 가장 이야기가 있는 주인공의 관계만 색면, 윤곽, 약간의 질감으로 그려 옛 책 표지의 작은 장면처럼 보이게 합니다. 종이색이 가장 넓고, 회청색이나 남색이 구조를, 회녹색이나 솔잎색이 주요 형태를 맡으며, 호박색이나 황토색은 아주 작게 한 점만 씁니다. 잉크 얼룩과 입자가 살짝 남습니다. 글자는 작은 활판 인쇄풍 글꼴로 사이드바, 테두리, 여백을 따라 놓습니다.",
+    "traits": ["이중 테두리", "사이드바 분할", "작은 삽화", "제한된 별색", "옛 인쇄 느낌"],
+    "good": [
+      "약간의 이야기가 있는 작은 장면: 등대, 작은 배, 숲속 오두막, 자전거 타는 사람",
+      "자연과 여행 사진: 산, 호수, 숲길, 바닷가",
+      "포장 라벨, 책 표지, 엽서, 성냥갑 그림으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "사람과 디테일이 많은 복잡한 장면은 작은 삽화 안에서 뭉쳐 버립니다",
+      "얼굴이나 상품 디테일을 정확히 살려야 하는 사진",
+      "선명한 디지털 그라데이션, 꽉 찬 삽화, 3D 효과를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "مشهد علبة كبريت بإطار مزدوج",
+    "tagline": "يرسم الصورة لوحةً صغيرة على ملصق علبة كبريت قديمة، بإطار مزدوج وعمود جانبي ضيق.",
+    "look": "يبدو التصميم كغلاف علبة كبريت قديمة أو ملصق تغليف: إطار خارجي يحيط بالملصق كله، وإطار داخلي يحدد المساحة الرئيسية، وعمود جانبي ضيق مقتطع على أحد الجانبين. في وسط المساحة الرئيسية أو أسفلها قليلاً رسم صغير لا يُظهر إلا العلاقة الأغنى بالحكاية بين العناصر، بكتل لونية وحدود وقليل من الملمس، كمشهد صغير على غلاف كتاب قديم. يحتل لون الورق أكبر مساحة؛ يرسم الأزرق الرمادي أو الكحلي البنية، ويملأ الأخضر الرمادي أو أخضر الصنوبر الأشكال الرئيسية، ولا يظهر الكهرماني أو المغرة إلا في نقطة صغيرة جداً، مع تفاوت خفيف في الحبر وحبيبات. النص حروف صغيرة بطابع الطباعة بالأحرف المعدنية، تمتد على العمود الجانبي أو الإطارات أو الفراغ.",
+    "traits": ["إطار مزدوج", "عمود جانبي", "رسم صغير", "ألوان خاصة محدودة", "طباعة قديمة"],
+    "good": [
+      "مشاهد صغيرة فيها شيء من الحكاية: منارة، قارب صغير، كوخ في الغابة، شخص على دراجة",
+      "صور الطبيعة والسفر: الجبال، البحيرات، دروب الغابات، شاطئ البحر",
+      "صور تريدها ملصق تغليف أو غلاف كتاب أو بطاقة بريدية أو صورة علبة كبريت"
+    ],
+    "poor": [
+      "المشاهد المزدحمة بالناس والتفاصيل، فهي تتكدس داخل رسم صغير",
+      "صور تحتاج إلى وجوه أو تفاصيل منتجات مطابقة للواقع",
+      "طلب تدرجات رقمية زاهية أو رسم يملأ الصفحة أو مظهر ثلاثي الأبعاد"
+    ]
+  }
+}
